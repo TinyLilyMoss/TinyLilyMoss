@@ -1,5 +1,5 @@
 # heyo
-my names rose, I'm a new and pretty shitty python dev, but I'm working on projects to give me a reason to actively work on learning! 
+my names rose, I'm a python dev, I'm working on projects to give me a reason to actively get better at coding! 
 ### Tools
 ![IDE](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
