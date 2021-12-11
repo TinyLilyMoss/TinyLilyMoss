@@ -1,5 +1,8 @@
 # heyo
 my names rose, I'm a python dev, I'm working on projects to give me a reason to actively get better at coding! 
+
+if you are a python dev looking for a way to make a little bit of money, send me an email at EvoCrowStudios@gmail.com
+
 ### Tools
 ![IDE](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
